@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Boa Viagem</string>
+    <string name="action_settings">Settings</string>
+    
+    <!-- Tela de Login -->
+    <string name="usuario">Usuário</string>
+    <string name="senha">Senha</string>
+    <string name="entrar">Entrar</string>
+    <string name="erro_autenticacao">Usuário ou Senha inválido!</string>
+    
+    <!-- Tela Dashboard -->
+    <string name="novo_gasto">Novo Gasto</string>
+    <string name="nova_viagem">Nova Viagem</string>
+    <string name="minhas_viagens">Minhas Viagens</string>
+    <string name="configuracoes">Configurações</string>
+    <string name="sair">Sair</string>
+    
+    <!-- Tela Nova Viagem -->
+    <string name="destino">Destino</string>
+    <string name="selecione">Selecione</string>
+    <string name="tipo_da_viagem">Tipo da Viagem</string>
+    <string name="lazer">Lazer</string>
+    <string name="orcamento">Orçamento</string>
+    <string name="negocios">Negócios</string>
+    <string name="data_da_chegada">Data da chegada</string>
+    <string name="data_da_saida">Data da saída</string>
+    <string name="quantidade_de_pessoas">No. de pessoas</string>
+    <string name="salvar">Criar nova viagem</string>
+    <string name="remover_viagem">Remover viagem</string>
+    
+    <!-- Tela Novo Gasto-->
+    <string name="categoria">Categoria</string>
+    <string name="valor">Valor</string>
+    <string name="data">Data</string>
+    <string name="descricao">Descrição</string>
+    <string name="local">Local</string>
+    <string name="gastei">Gastei</string>
+    
+    <string-array name="categoria_gasto">
+        <item>Alimentação</item>
+        <item>Combustível</item>
+        <item>Transporte</item>
+        <item>Hospedagem</item>
+        <item>Outros</item>
+    </string-array>
+     
+    <!-- Strings de Menu de contexto e AlertDialogs -->
+    <string name="remover">Remover</string>
+    <string name="editar">Editar</string>
+    <string name="gastos_realizados">Gastos Realizados</string>
+    <string name="opcoes">Opções</string>
+    <string name="confirmacao_exclusao_viagem">Deseja realmente remover está viagem?</string>
+    <string name="sim">Sim</string>
+    <string name="nao">Não</string>
+
+</resources>
